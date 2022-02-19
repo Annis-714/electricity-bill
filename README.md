@@ -1,9 +1,9 @@
 # electricity-bill
 print("                 WELCOME TO INFY ELECTRICITY BILL       ")
-print("\n")
-print("\n")
-print("Kinly fill the below form to step further")
-print("\n")
+
+
+print("Kindly fill the below form to step further")
+
 
 #NAME INPUT
 fname=input("Enter your first name:")
